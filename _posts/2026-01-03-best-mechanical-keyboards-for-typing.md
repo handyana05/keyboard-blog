@@ -11,6 +11,8 @@ tags: [Budget, Quiet, Wireless]
 
 If you type for hours every day, the right mechanical keyboard can significantly improve comfort, accuracy, and long-term productivity. Unlike gaming-focused reviews, this guide focuses on **typing feel, noise level, layout, and real-world usability**.
 
+> **Note:** This guide is actively being updated. Images and buying links will be added shortly.
+
 Below are some of the best mechanical keyboards for typing in 2026, based on long-term user feedback, specifications, and common use cases.
 
 ---
