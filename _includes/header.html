@@ -1,0 +1,20 @@
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="site-brand" href="{{ '/' | relative_url }}">
+        <img
+            src="{{ '/assets/images/logo.png' | relative_url }}"
+            alt="Productivity Tech Notes"
+            class="site-logo"
+        />
+    </a>
+
+    <nav class="site-nav">
+      {% for page in site.header_pages %}
+        {% assign p = site.pages | where: "path", page | first %}
+        {% if p %}
+          <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+  </div>
+</header>

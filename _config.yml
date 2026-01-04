@@ -1,0 +1,20 @@
+title: Productivity Tech Notes
+description: "Practical, research-based guides for productivity-focused tech — starting with mechanical keyboards for typing."
+theme: minima
+markdown: kramdown
+permalink: pretty
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+kramdown:
+  auto_ids: true
+
+include:
+  - _pages
+
+header_pages:
+  - _pages/about.md
+  - _pages/disclosure.md
+  - _pages/privacy.md

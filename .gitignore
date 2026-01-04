@@ -1,0 +1,51 @@
+# =========================
+# Jekyll build output
+# =========================
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# =========================
+# Ruby / Bundler
+# =========================
+.bundle/
+vendor/bundle/
+*.gem
+
+# If you ever use --path vendor/bundle
+vendor/cache/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS / Editor junk
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDEs / Editors
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Node (in case you add tooling later)
+# =========================
+node_modules/
+
+# =========================
+# Netlify local dev
+# =========================
+.netlify/
+
+# =========================
+# Env files
+# =========================
+.env
+.env.*

@@ -1,0 +1,24 @@
+<title>
+  {% if page.seo_title %}
+    {{ page.seo_title }}
+  {% elsif page.title %}
+    {{ page.title }} | {{ site.title }}
+  {% else %}
+    {{ site.title }}
+  {% endif %}
+</title>
+
+{% if page.seo_description %}
+  <meta name="description" content="{{ page.seo_description }}">
+{% elsif page.description %}
+  <meta name="description" content="{{ page.description }}">
+{% else %}
+  <meta name="description" content="{{ site.description }}">
+{% endif %}
+
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+<link rel="icon" href="{{ '/assets/favicon/favicon.ico' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon/favicon-32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicon/favicon-16.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/favicon/apple-touch-icon.png' | relative_url }}">

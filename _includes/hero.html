@@ -1,0 +1,11 @@
+<section class="hero">
+  <div class="hero-inner">
+    <h1>{{ site.title | escape }}</h1>
+    <p>{{ site.description | escape }}</p>
+
+    <div class="hero-actions">
+      <a class="btn" href="{{ '/posts/' | relative_url }}">Browse posts</a>
+      <a class="btn secondary" href="{{ '/about/' | relative_url }}">About</a>
+    </div>
+  </div>
+</section>
