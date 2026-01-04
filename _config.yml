@@ -1,3 +1,6 @@
+url: https://productivitytechnotes.netlify.app/
+baseurl: ""
+
 title: Productivity Tech Notes
 description: "Practical, research-based guides for productivity-focused tech — starting with mechanical keyboards for typing."
 theme: minima
