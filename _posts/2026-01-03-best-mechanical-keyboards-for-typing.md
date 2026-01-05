@@ -50,7 +50,8 @@ The **Royal Kludge RK61** is a compact mechanical keyboard that’s popular amon
 - No dedicated arrow keys  
 - Learning curve for shortcuts  
 
-🔗 *Royal Kludge RK61 60% Mechanical Keyboard on Amazon*
+🔗 **Check current price on Amazon:**
+[Royal Kludge RK61 60% Mechanical Keyboard](https://amzn.to/4ss1NiI)
 
 ---
 
@@ -73,8 +74,8 @@ The **Ajazz AK820** offers a well-balanced **75% layout**, keeping arrow keys an
 - Slightly larger than minimalist boards  
 - RGB features may be unnecessary for some users  
 
-🔗 *Ajazz AK820 75% Mechanical Keyboard on Amazon*
-
+🔗 **Check current price on Amazon:**
+[Ajazz AK820 75% Mechanical Keyboard](https://amzn.to/3LrxPLb)
 ---
 
 ## Best full-size mechanical keyboard for typing
@@ -96,7 +97,8 @@ If you prefer a traditional layout, the **Keychron C3 Pro** is a dependable full
 - Takes up more desk space  
 - No wireless option  
 
-🔗 *Keychron C3 Pro Wired Mechanical Keyboard on Amazon*
+🔗 **Check current price on Amazon:**  
+[Keychron C3 Pro Wired Mechanical Keyboard](https://amzn.to/498DWNC)
 
 ---
 
@@ -117,7 +119,8 @@ The **CHERRY KC 200 MX** focuses on reliability and simplicity. Built around CHE
 - Limited customization  
 - Basic feature set  
 
-🔗 *CHERRY KC 200 MX Mechanical Keyboard on Amazon*
+🔗 **Check current price on Amazon:**  
+[CHERRY KC 200 MX Wired Mechanical Keyboard](https://amzn.to/3NwgWiU)
 
 ---
 
@@ -138,7 +141,8 @@ The **EPOMAKER x AULA F75 MAX** is ideal for users who want flexibility. With ho
 **Cons**
 - More features than some typists need  
 
-🔗 *EPOMAKER x AULA F75 MAX Mechanical Keyboard on Amazon*
+🔗 **Check current price on Amazon:**
+[EPOMAKER x AULA F75 MAX Mechanical Keyboard](https://amzn.to/498GtaA)
 
 ---
 
@@ -159,7 +163,7 @@ The **YUNZII B75 Pro** combines wireless convenience with a satisfying mechanica
 **Cons**
 - Battery management required  
 
-🔗 *YUNZII B75 Pro Wireless Mechanical Keyboard on Amazon*
+> Note: The YUNZII B75 Pro is popular internationally, but German (DE-ISO) variants are not consistently available on Amazon.de at the time of writing.
 
 ---
 
@@ -172,6 +176,10 @@ For those willing to invest more, the **SteelSeries Apex Pro TKL Gen 3** offers 
 - Customizable key response  
 - Excellent build quality  
 
+**Connection options**
+- **Wired (USB-C):** Best for stability and value
+- **Wireless:** More flexible setup, higher price
+
 **Pros**
 - Highly refined typing feel  
 - Durable and responsive  
@@ -180,7 +188,9 @@ For those willing to invest more, the **SteelSeries Apex Pro TKL Gen 3** offers 
 - Expensive  
 - Features may be excessive for casual users  
 
-🔗 *SteelSeries Apex Pro TKL Gen 3 Mechanical Keyboard on Amazon*
+🔗 **Check current price on Amazon:**  
+- **Wired version:** [SteelSeries Apex Pro TKL Gen 3 (Wired)](https://amzn.to/3L1f5SJ)  
+- **Wireless version:** [SteelSeries Apex Pro TKL Gen 3 Wireless](https://amzn.to/3YWalAP)
 
 ---
 
