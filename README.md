@@ -4,7 +4,7 @@ Practical, research-based guides to help you choose productivity-focused tech â€
 
 ## Start here (Mechanical Keyboards)
 - [Best Mechanical Keyboards for Typing]({% post_url 2026-01-03-best-mechanical-keyboards-for-typing %})
-- [Quiet Mechanical Keyboards for Office]({% post_url 2026-01-04-quiet-mechanical-keyboards-for-office %})
+- [Quiet Mechanical Keyboards for Office]({% post_url 2026-01-05-quiet-mechanical-keyboards-for-office %})
 - [Red vs Brown vs Blue Switches](./red-vs-brown-vs-blue-switches/)
 
 ## Who this is for
