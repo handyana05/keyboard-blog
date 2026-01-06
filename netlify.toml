@@ -1,5 +1,5 @@
 [build]
-  command = "bundle exec jekyll build"
+  command = "bundle exec jekyll build && cp _redirects _site/_redirects"
   publish = "_site"
 
 [build.environment]
