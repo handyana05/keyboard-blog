@@ -45,14 +45,14 @@ Below are keyboards that balance **low noise**, **typing comfort**, and **profes
 
 | Keyboard | Layout | Best for | Noise level |
 |--------|--------|----------|-------------|
-| Keychron K Pro (Silent) | 75% / TKL | Daily office typing | Low |
+| Keychron K Pro (compatible with silent switches) | 75% / TKL | Daily office typing | Low |
 | Logitech MX Mechanical | Full / Mini | Shared offices | Very low |
 | Cherry KC 200 MX Silent | Full-size | Traditional workplaces | Low |
 | Epomaker TH series (Silent) | 75% | Customizable setups | Low–Medium |
 
 ---
 
-## Keychron K Pro (Silent Red or Brown)
+## Keychron K Pro (quiet mechanical keyboard for office use)
 
 Keychron’s Pro series is a strong option for office professionals who want a mechanical keyboard without excessive noise.
 
@@ -60,7 +60,7 @@ Keychron’s Pro series is a strong option for office professionals who want a m
 **Layout options:** 75%, TKL  
 
 **Pros**
-- Quiet linear or silent tactile switches
+- Quiet linear tactile switches
 - Solid build quality with internal dampening
 - Hot-swappable switches
 
@@ -69,7 +69,10 @@ Keychron’s Pro series is a strong option for office professionals who want a m
 - Not ultra-low-profile
 
 **Why it works well in offices**  
-The combination of silent switches and a dampened case makes the K Pro noticeably quieter than most mechanical keyboards, while still feeling precise and comfortable.
+While it doesn’t ship with silent switches by default, the Keychron K Pro’s internal dampening and stabilizers make it noticeably quieter than many mechanical keyboards. It can also be paired with silent switches later.
+
+🔗 **Check current availability:**  
+[Keychron K Pro (compatible with silent switches) on Amazon](https://amzn.to/4pBexkA)
 
 ---
 
@@ -92,6 +95,10 @@ Designed specifically for professional environments, the MX Mechanical focuses o
 **Why it works well in offices**  
 Low-profile switches reduce both travel distance and sound, making this one of the quietest mechanical options available for professional use.
 
+🔗 **Check current availability:**  
+[Logitech MX Mechanical (Quiet version - full-size) on Amazon](https://amzn.to/4ql4X6H)
+[Logitech MX Mechanical (Quiet version - mini) on Amazon](https://amzn.to/4589sZA)
+
 ---
 
 ## Cherry KC 200 MX Silent
@@ -109,6 +116,9 @@ Cherry’s MX Silent switches are purpose-built for low noise, making this keybo
 **Cons**
 - Basic feature set
 - No wireless option
+
+🔗 **Check current availability:**  
+[Cherry KC 200 MX Silent on Amazon](https://amzn.to/4jGFxxR)
 
 ---
 
