@@ -16,7 +16,6 @@ kramdown:
 
 include:
   - _pages
-  - _redirects
 
 header_pages:
   - _pages/about.md
